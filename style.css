@@ -118,7 +118,7 @@ a:focus {
 	background: var(--color-text);
 	color: var(--color-bg);
 	padding: 1rem;
-	font-size: 10rem;
+	font-size: 5rem;
 	position: relative;
 }
 
